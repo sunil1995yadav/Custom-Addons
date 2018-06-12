@@ -13,8 +13,7 @@
         'views/account_journal_view.xml',
         'views/pos_order_view.xml',
     ],
-    'images': [
-    ],
+    'images': ['static/description/icon_img.png'],
     'installable': True,
     'application': True,
     'qweb': ['static/src/xml/pos_payment_ref.xml'],
