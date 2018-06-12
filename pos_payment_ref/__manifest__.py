@@ -3,7 +3,7 @@
     'name': 'POS Payment Ref',
     'version': '10.0.1.0.0',
     'summary': """Allow users to add narration of payment ref from the POS """,
-    'category': 'Point Of Sale',
+    'category': 'Point of Sale',
     'license': 'LGPL-3',
     'author': "Knacktechs Solutions",
     'website': "http://knacktechs.com/",
